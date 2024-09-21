@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(5, 0, 0);
+    font-family: "Roboto", sans-serif;
+  }
+  
+  h1 {
+    color: #28a745;
+    text-align: center;
+  }
+  
+  #content {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
